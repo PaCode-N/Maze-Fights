@@ -20,7 +20,7 @@ position = [0, 0]
 
 #Beginning
 os.system("cls")
-game_title = "[bold]  Bienvenido a 💥💥JOINT FIGHTS💥💥  [/bold]"
+game_title = "[bold]  Bienvenido a 💥💥Maze Fights💥💥  [/bold]"
 print("\n\n\n" +game_title + "\n" + "-" * (len(game_title) -9) + "\n\n\n" +ENTER + " para comenzar:")
 input()
 os.system("cls")
