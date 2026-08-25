@@ -1,4 +1,4 @@
-# Joint Fights
+# Maze Fights
 
 A simple maze game developed in Python where you have to explore a maze and fight different enemies to escape.
 
